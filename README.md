@@ -1,2 +1,2 @@
 # dwm-boldactivetagindicator
-This patch changes the active tab indicator to a bold font instead of a square.
+This patch makes the active tag indicator use a bold font. It also removes the square.
